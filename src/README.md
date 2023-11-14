@@ -1,6 +1,6 @@
 # PARADIGMA ORIENTADO A OBJETOS
 
-> Repositório dedicado a disciplina de paradigma  
+> Repositório dedicado a disciplina de paradigma
 > orientado a objetos no período de 2022.2 pelo professor
 > Flaygner.
 
